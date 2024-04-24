@@ -1,0 +1,25 @@
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.sub {
+    width: 50%;
+    margin-top: 50px;
+}
+
+.subsub {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.quote {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.author {
+    font-style: italic;
+}
